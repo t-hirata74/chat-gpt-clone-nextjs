@@ -15,7 +15,8 @@
     "ai": "^4.3.17",
     "next": "15.3.2",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-markdown": "^10.1.0"
   },
   "devDependencies": {
     "@biomejs/biome": "2.0.6",
