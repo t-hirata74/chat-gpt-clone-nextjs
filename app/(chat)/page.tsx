@@ -8,5 +8,5 @@ export default async function Page() {
   if (!session) {
     redirect("/signin");
   }
-  return <Chat />;
+  return <Chat session={session} />;
 }
